@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reg">REGISTRATION FORM</string>
+    <string name="fname">FIRST NAME:</string>
+    <string name="lname">LAST NAME:</string>
+    <string name="email">EMAIL ADDRESS</string>
+    <string name="phone">PHONE NUMBER</string>
+    <string name="pass">PASSWORD</string>
+    <string name="register">REGISTER</string>
+    <string name="summit">SUMMIT </string>
+
+
+
+
+
+</resources>
